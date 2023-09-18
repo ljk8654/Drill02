@@ -11,7 +11,6 @@ x_move = 0
 y_move = 90
 angle = 270
 while (1):
-    
     angle = 270
     clear_canvas_now()
     grass.draw_now(400,30)
@@ -197,4 +196,3 @@ while (1):
     x_move = 400
     y_move = 90
 close_canvas()
-
